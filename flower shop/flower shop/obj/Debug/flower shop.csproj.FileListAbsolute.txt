@@ -1,0 +1,7 @@
+D:\C# codes\flower shop\flower shop\bin\Debug\flower shop.exe.config
+D:\C# codes\flower shop\flower shop\bin\Debug\flower shop.exe
+D:\C# codes\flower shop\flower shop\bin\Debug\flower shop.pdb
+D:\C# codes\flower shop\flower shop\obj\Debug\flower shop.csprojAssemblyReference.cache
+D:\C# codes\flower shop\flower shop\obj\Debug\flower shop.csproj.CoreCompileInputs.cache
+D:\C# codes\flower shop\flower shop\obj\Debug\flower shop.exe
+D:\C# codes\flower shop\flower shop\obj\Debug\flower shop.pdb
