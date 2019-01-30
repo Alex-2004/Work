@@ -1,0 +1,14 @@
+D:\C# codes\Examination\Examination\bin\Debug\Examination.exe.config
+D:\C# codes\Examination\Examination\bin\Debug\Examination.exe
+D:\C# codes\Examination\Examination\bin\Debug\Examination.pdb
+D:\C# codes\Examination\Examination\obj\Debug\Examination.csprojAssemblyReference.cache
+D:\C# codes\Examination\Examination\obj\Debug\Examination.csproj.CoreCompileInputs.cache
+D:\C# codes\Examination\Examination\obj\Debug\Examination.exe
+D:\C# codes\Examination\Examination\obj\Debug\Examination.pdb
+D:\C#\Examination\Examination\obj\Debug\Examination.csprojAssemblyReference.cache
+D:\C#\Examination\Examination\obj\Debug\Examination.csproj.CoreCompileInputs.cache
+D:\C#\Examination\Examination\obj\Debug\Examination.exe
+D:\C#\Examination\Examination\obj\Debug\Examination.pdb
+D:\C#\Examination\Examination\bin\Debug\Examination.exe.config
+D:\C#\Examination\Examination\bin\Debug\Examination.exe
+D:\C#\Examination\Examination\bin\Debug\Examination.pdb

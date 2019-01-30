@@ -1,0 +1,10 @@
+D:\C# codes\Ad\Ad\bin\Debug\Ad.exe.config
+D:\C# codes\Ad\Ad\bin\Debug\Ad.exe
+D:\C# codes\Ad\Ad\bin\Debug\Ad.pdb
+D:\C# codes\Ad\Ad\obj\Debug\Ad.csprojAssemblyReference.cache
+D:\C# codes\Ad\Ad\obj\Debug\Ad.Form1.resources
+D:\C# codes\Ad\Ad\obj\Debug\Ad.Properties.Resources.resources
+D:\C# codes\Ad\Ad\obj\Debug\Ad.csproj.GenerateResource.cache
+D:\C# codes\Ad\Ad\obj\Debug\Ad.csproj.CoreCompileInputs.cache
+D:\C# codes\Ad\Ad\obj\Debug\Ad.exe
+D:\C# codes\Ad\Ad\obj\Debug\Ad.pdb
